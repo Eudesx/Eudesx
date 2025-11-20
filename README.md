@@ -1,16 +1,27 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Eudesx/Eudesx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Security Student
 
-Here are some ideas to get you started:
+**Cybersecurity | Pentesting**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`> focus: offensive security`
+
+---
+
+### 📚 Currently Studying
+- Network Security
+- Penetration Testing
+- Vulnerability Research
+
+### 🛠️ Main Tools
+`Python` `Bash` `Wireshark` `Metasploi`
+`C++`
+
+### 🔐 Learning Path
+- Security Certifications
+
+---
+
+*Building knowledge in cybersecurity*
+
+</div>
