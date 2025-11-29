@@ -23,6 +23,8 @@
 ---
 
 *Building knowledge in cybersecurity*
+<img src="https://github.com/Eudesx/Eudesx/blob/main/Mj3hfYF.png" alt="Minha foto" width="200" />
+
 
 
 
